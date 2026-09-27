@@ -1,0 +1,6 @@
+{
+  "name": "NiftyPulse Options Terminal",
+  "description": "Professional zero-cost options trading terminal for Nifty 50 and Bank Nifty featuring live simulated market data, interactive options chain, Black-Scholes Greeks, strategy payoff visualizer, and SPAN margin risk management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
